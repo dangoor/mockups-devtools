@@ -1,0 +1,45 @@
+<mockup version="1.0" skin="sketch" measuredW="920" measuredH="32" mockupW="920" mockupH="32">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="196" y="2" w="448" h="27" measuredW="448" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::PointyButton" x="208" y="0" w="-1" h="-1" measuredW="240" measuredH="27" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <direction>right</direction>
+            <text>%20%20%20%20%20%3Ch1%3E%23title.class1.class2.class3%20%20%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::PointyButton" x="106" y="0" w="136" h="-1" measuredW="86" measuredH="27" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>%23container</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::PointyButton" x="26" y="0" w="-1" h="-1" measuredW="98" measuredH="27" zOrder="2" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>%20%20%20%20%20%20body%20%20%20%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::PointyButton" x="0" y="0" w="-1" h="-1" measuredW="58" measuredH="27" zOrder="3" locked="false" isInGroup="0">
+          <controlProperties>
+            <text>html%20%20</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="920" h="32" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="6" y="5" w="-1" h="-1" measuredW="57" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Highlight</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="76" y="5" w="-1" h="-1" measuredW="38" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>HTML</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="127" y="5" w="-1" h="-1" measuredW="45" measuredH="23" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Layout</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
